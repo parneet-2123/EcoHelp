@@ -3,3 +3,7 @@ when the user will open this app he will see some EcoHelp team named users so, h
 This app is made because you know that most of us don't have knowledge in banking and all so, sometimes we invest our money on a company and afterwards, we came to know that the company was a fraud and all our investment goes.
 So, EcoHelp will help you while analyzing your data and your need and will tell best suggestions and tricks that will give you profit.
 THIS APP IS FULLY ENCRYPTED NO ONE CAN USE YOUR DATA EXCEPT THE TEAM AND WE WILL ENSURE THAT YOUR DATA IS SAFE.
+
+
+
+And if your device doesn't have storage to download the app you can also visit https://fundevelopers.000webhostapp.com this is a web version. 
